@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a tutorial to help beginner contributors on GitHub contribute to a simple project!
+This is a tutorial to help beginner contributors on GitHub contribute to a simple project using markdown.
 
 ## Task
 
