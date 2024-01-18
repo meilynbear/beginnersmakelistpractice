@@ -6,3 +6,10 @@
 - [X] Exercise
 - [ ] Go out with friends
 ### <-- Contributor END
+
+### Contributor START -->
+- [Temitope Emokpae](https://github.com/temokpae3)
+- [X] Take a shower
+- [X] Do some GitHub tasks
+- [ ] Play Mario Kart with friends
+### <-- Contributor END
