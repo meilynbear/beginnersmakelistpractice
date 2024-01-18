@@ -17,5 +17,6 @@ This is a tutorial to help beginner contributors on GitHub contribute to a simpl
 - Clone the repository
 - Create a new branch (this makes your own space to edit with before commiting changes)
 - In index.md, add a link to your GitHub userpage and a list of three things you'd like to do today underneath!
+To add a link to your GitHub profile, type in: [your username here](link address here)
 - Push your changes
 - Submit changes for review by opening and then submitting a pull request
