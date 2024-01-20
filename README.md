@@ -21,3 +21,5 @@ To add a link to your GitHub profile, type in: [your username here](link address
 To make a list, type in: - [ ] (List item here). Simply put an X inside the brackets like this [X] to check off the list
 - Push your changes
 - Submit changes for review by opening and then submitting a pull request
+
+Make sure to star this repository! 
