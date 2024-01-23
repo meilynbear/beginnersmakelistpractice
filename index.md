@@ -10,4 +10,9 @@
 - [X] Take a shower
 - [X] Do some GitHub tasks
 - [ ] Play Mario Kart with friends
+
+- [Samrath Singh](https://github.com/DSam327)
+- [X] Attend classes
+- [X] Play table tennis with friends
+- [] Sleep early
 ### <-- Contributor END
