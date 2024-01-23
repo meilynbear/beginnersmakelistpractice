@@ -11,8 +11,14 @@
 - [X] Do some GitHub tasks
 - [ ] Play Mario Kart with friends
 
+- [Samrath Singh](https://github.com/DSam327)
+- [X] Attend classes
+- [X] Play table tennis with friends
+- [ ] Sleep early
+
 - [Brian Chebon](https://github.com/Chebon-breezy)
 - [X] Exercise for 30 minutes
 - [X] Submit this week pull request
 - [ ] Visit the Barber
+
 ### <-- Contributor END
