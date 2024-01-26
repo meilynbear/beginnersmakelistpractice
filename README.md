@@ -18,7 +18,7 @@ This is a tutorial to help beginner contributors on GitHub contribute to a simpl
 - Create a new branch (this makes your own space to edit with before commiting changes).
 - In index.md, add a link to your GitHub userpage and a list of three things you'd like to do today underneath!
 To add a link to your GitHub profile, type in: [your username here](link address here)
-To make a list, type in: - [ ] (List item here). Simply put an X inside the brackets like this [X] to check off the list. 
+To make a list, type in: - [ ] (List item here). Simply put an X inside the brackets like this [X] to check off the list.
 - Push your changes
 - Submit changes for review by opening and then submitting a pull request
 
