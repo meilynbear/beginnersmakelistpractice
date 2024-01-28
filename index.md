@@ -1,4 +1,4 @@
-# EXAMPLE
+## EXAMPLE
 ### DO NOT modify the EXAMPLE directly, make a copy and paste it below
 ### Contributor START -->
 - [meilynbear](https://www.github.com/meilynbear)
