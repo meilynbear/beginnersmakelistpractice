@@ -21,4 +21,9 @@
 - [X] Submit this week pull request
 - [ ] Visit the Barber
 
+- [Sam Archer](https://github.com/MxSamArcher)
+- [X] Practice with GitHub
+- [ ] Book a physio appointment
+- [ ] Make myself an iced-coffee
+
 ### <-- Contributor END
