@@ -26,4 +26,9 @@
 - [ ] Book a physio appointment
 - [ ] Make myself an iced-coffee
 
+- [Tenneh Kanneh](https://github.com/tennehkanneh)
+- [X] Make a contribution
+- [ ] Study for PHYS Exam  
+- [ ] Finish Comp Sci II Lab
+
 ### <-- Contributor END
