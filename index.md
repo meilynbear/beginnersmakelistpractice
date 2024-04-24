@@ -31,4 +31,8 @@
 - [ ] Study for PHYS Exam  
 - [ ] Finish Comp Sci II Lab
 
+- [Farnooshmo](https://github.com/Farnooshmo)
+- [X] Follow the Open-Source course
+- [X] Attend the product team's meeting  
+- [ ] Call my friend
 ### <-- Contributor END
