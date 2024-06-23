@@ -35,4 +35,9 @@
 - [X] Follow the Open-Source course
 - [X] Attend the product team's meeting  
 - [ ] Call my friend
+
+- [AhmedYasserIbrahim] (https://github.com/AhmedYasserIbrahim)
+- [X] Contribute to my first open source project.
+- [X] Exercise
+- [ ] Send an Email
 ### <-- Contributor END
