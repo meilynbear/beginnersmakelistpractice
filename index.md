@@ -49,4 +49,9 @@
 - [x] Take the puppy for a walk.
 - [x] Revise my work.
 
+- [Grant Chugh](https://github.com/grantchugh)
+- [x] Make a contribution.
+- [x] Make coffee.
+- [] Walk the dog.
+
 ### <-- Contributor END
