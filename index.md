@@ -52,6 +52,6 @@
 - [Grant Chugh](https://github.com/grantchugh)
 - [x] Make a contribution.
 - [x] Make coffee.
-- [] Walk the dog.
+- [ ] Walk the dog.
 
 ### <-- Contributor END
