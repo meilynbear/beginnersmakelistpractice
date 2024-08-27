@@ -24,6 +24,11 @@
 - [x] Submit this week pull request
 - [ ] Visit the Barber
 
+- [Zaid Waseem](https://github.com/ZaidWaseem7)
+- [x] Learn how to contribute to open source projects
+- [x] Practice with GitHub
+- [ ] Sleep early
+
 - [Sam Archer](https://github.com/MxSamArcher)
 - [x] Practice with GitHub
 - [ ] Book a physio appointment
