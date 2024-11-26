@@ -59,4 +59,9 @@
 - [x] Make coffee.
 - [ ] Walk the dog.
 
+- [Parul Gupta](https://github.com/pgupta-21)
+- [x] Start with Github.
+- [ ] Make lunch.
+- [ ] Continue with python.
+
 ### <-- Contributor END
