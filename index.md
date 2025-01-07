@@ -64,4 +64,8 @@
 - [ ] Make lunch.
 - [ ] Continue with python.
 
+-[Laukik Patade](https://github.com/LaukikPatade)
+- [X] Start Open Source
+- [ ] Exercise
+- [ ] Finish College Application
 ### <-- Contributor END
