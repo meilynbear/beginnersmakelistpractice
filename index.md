@@ -68,4 +68,9 @@
 - [X] Start Open Source
 - [ ] Exercise
 - [ ] Finish College Application
+
+- [Laurie Leung](https://github.com/witchybread)
+- [X] Make a list on .mc practice
+- [ ] Watch discord stream
+- [ ] Continue job applications
 ### <-- Contributor END
