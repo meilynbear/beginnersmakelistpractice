@@ -70,7 +70,7 @@
 - [ ] Finish College Application
 
 - [Laurie Leung](https://github.com/witchybread)
-- [X] Make a list on .mc practice
+- [X] Make a list on .md practice
 - [ ] Watch discord stream
 - [ ] Continue job applications
 ### <-- Contributor END
