@@ -73,4 +73,9 @@
 - [X] Make a list on .md practice
 - [ ] Watch discord stream
 - [ ] Continue job applications
+
+- [Nathalia Cappellini](https://github.com/nathaliacappellini)
+- [X] Have coffee
+- [X] Interact on Github
+- [ ] Take a break
 ### <-- Contributor END
