@@ -78,4 +78,9 @@
 - [X] Have coffee
 - [X] Interact on Github
 - [ ] Take a break
+
+- [Amy Niu](https://github.com/amyemmaniu)
+- [X] Complete sample Java API documentation
+- [X] Have a tea break.
+- [X] Contribute to open-source API documentation
 ### <-- Contributor END
