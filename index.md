@@ -80,7 +80,7 @@
 - [ ] Take a break
 
 - [Amy Niu](https://github.com/amyemmaniu)
-- [X] Complete sample Java API documentation
-- [X] Have a tea break.
-- [X] Contribute to open-source API documentation
+- [X] Learn about REST APIs
+- [X] Have a tea break
+- [X] Contribute to an open-source project on GitHub
 ### <-- Contributor END
