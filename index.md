@@ -78,4 +78,9 @@
 - [X] Have coffee
 - [X] Interact on Github
 - [ ] Take a break
+
+- [Amy Niu](https://github.com/amyemmaniu)
+- [X] Learn about REST APIs
+- [X] Have a tea break
+- [X] Contribute to an open-source project on GitHub
 ### <-- Contributor END
