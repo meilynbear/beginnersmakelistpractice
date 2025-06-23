@@ -4,6 +4,12 @@
 
 ### Contributor START -->
 
+-[rudrikasharma15](https://github.com/rudrikasharma15)
+- [X] Solve 11 LeetCode problem
+- [ ] Read about system design
+- [ ] Write a blog post draft
+
+
 - [meilynbear](https://www.github.com/meilynbear)
 - [x] Wake up in the morning
 - [x] Exercise
