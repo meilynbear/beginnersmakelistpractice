@@ -83,4 +83,11 @@
 - [X] Learn about REST APIs
 - [X] Have a tea break
 - [X] Contribute to an open-source project on GitHub
+
+- [TJ Kapil](https://github.com/TJKapilDevOps)
+- [X] Start Open Source
+- [ ] Learn about AWS EKS
+- [ ] Work on DevOps project 
+
+
 ### <-- Contributor END
