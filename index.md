@@ -89,11 +89,11 @@
 - [ ] Learn about AWS EKS
 - [ ] Work on DevOps project 
 
-
-### <-- Contributor END
-
 - [kyiroywops](https://github.com/kyiroywops)
 - [x] Create my GitHub profile README
 - [x] Make my first open source contribution
 - [ ] Learn more about Flutter development
+
+### <-- Contributor END
+
 
