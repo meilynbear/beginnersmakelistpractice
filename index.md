@@ -94,6 +94,11 @@
 - [x] Make my first open source contribution
 - [ ] Learn more about Flutter development
 
+- [niceome](https://github.com/niceome)
+- [x] Solve a Algorithm Problem in Baekjoon.
+- [ ] Be a billionaire
+- [ ] Take a nap 
+
 ### <-- Contributor END
 
 
