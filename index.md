@@ -94,6 +94,11 @@
 - [x] Make my first open source contribution
 - [ ] Learn more about Flutter development
 
+- [Yash-Tobre](https://github.com/Yash-Tobre)
+- [X] Do my first contribution
+- [] Reach out to a company
+- [] output 10-12 hours of work
+
 ### <-- Contributor END
 
 
