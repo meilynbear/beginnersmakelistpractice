@@ -94,6 +94,11 @@
 - [x] Make my first open source contribution
 - [ ] Learn more about Flutter development
 
+- [DangerousStrikerCR7](https://github.com/DangerousStrikerCR7)
+- [x] Create new GitHub account
+- [x] Make my first open source contribution
+- [ ] Learn about deploying projects using AI
+
 ### <-- Contributor END
 
 
