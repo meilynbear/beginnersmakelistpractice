@@ -99,6 +99,11 @@
 - [x] Make my first open source contribution
 - [ ] Learn about deploying projects using AI
 
+- [ananyamehrotra](https://github.com/ananyamehrotra)
+- [x] try open source contribution
+- [ ] resume DSA
+- [ ] prepare for sih
+
 ### <-- Contributor END
 
 
