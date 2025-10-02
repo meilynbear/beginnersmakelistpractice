@@ -104,6 +104,11 @@
 - [ ] resume DSA
 - [ ] prepare for sih
 
+- [Patriotpl](https://github.com/Patriotpl)
+- [x] Eat pizza
+- [x] check up for grabs
+- [ ] go to sleep 
+
 ### <-- Contributor END
 
 
