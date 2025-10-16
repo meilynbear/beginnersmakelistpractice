@@ -99,6 +99,26 @@
 - [] Reach out to a company
 - [] output 10-12 hours of work
 
+- [DangerousStrikerCR7](https://github.com/DangerousStrikerCR7)
+- [x] Create new GitHub account
+- [x] Make my first open source contribution
+- [ ] Learn about deploying projects using AI
+
+- [ananyamehrotra](https://github.com/ananyamehrotra)
+- [x] try open source contribution
+- [ ] resume DSA
+- [ ] prepare for sih
+
+- [Patriotpl](https://github.com/Patriotpl)
+- [x] Eat pizza
+- [x] check up for grabs
+- [ ] go to sleep 
+
+- [HarshaSai1234](https://github.com/HarshaSai1234)
+- [x] Create a portfolio using react
+- [x] Contribute during Hactoberfest
+- [ ] Make a contribution on github everyday
+
 ### <-- Contributor END
 
 
