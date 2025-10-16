@@ -109,6 +109,11 @@
 - [x] check up for grabs
 - [ ] go to sleep 
 
+- [HarshaSai1234](https://github.com/HarshaSai1234)
+- [x] Create a portfolio using react
+- [x] Contribute during Hactoberfest
+- [ ] Make a contribution on github everyday
+
 ### <-- Contributor END
 
 
