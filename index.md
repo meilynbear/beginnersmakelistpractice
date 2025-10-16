@@ -104,6 +104,10 @@
 - [ ] resume DSA
 - [ ] prepare for sih
 
+- [Patriotpl](https://github.com/Patriotpl)
+- [x] Eat pizza
+- [x] check up for grabs
+- [ ] go to sleep 
 
 - [HarshaSai1234](https://github.com/HarshaSai1234)
 - [x] Create a portfolio using react
