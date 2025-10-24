@@ -122,7 +122,7 @@
 - [Suvanwita](https://github.com/Suvanwita)
 - [x] Work on project
 - [x] Practice DSA
-- [] Read a new book
+- [ ] Read a new book
 
 ### <-- Contributor END
 
