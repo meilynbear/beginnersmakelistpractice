@@ -119,6 +119,11 @@
 - [x] Contribute during Hactoberfest
 - [ ] Make a contribution on github everyday
 
+- [Suvanwita](https://github.com/Suvanwita)
+- [x] Work on project
+- [x] Practice DSA
+- [] Read a new book
+
 ### <-- Contributor END
 
 
