@@ -119,6 +119,11 @@
 - [x] Contribute during Hactoberfest
 - [ ] Make a contribution on github everyday
 
+- [xentigen](https://github.com/xentigen)
+- [x] Wake up 🌄️🛏️🥱️
+- [x] Have a breakfast 🌄️🍽️😋️
+- [ ] Learn Python 📚️🐍️
+
 ### <-- Contributor END
 
 
