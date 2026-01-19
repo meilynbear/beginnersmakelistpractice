@@ -119,6 +119,11 @@
 - [x] Contribute during Hactoberfest
 - [ ] Make a contribution on github everyday
 
+- [raza-khan0108](https://github.com/raza-khan0108)
+- [x] Contribute to an open source project on Github
+- [] Solve a problem on Leetcode
+- [x] Go to gym
+
 ### <-- Contributor END
 
 
