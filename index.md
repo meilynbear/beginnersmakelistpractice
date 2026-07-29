@@ -119,6 +119,11 @@
 - [x] Contribute during Hactoberfest
 - [ ] Make a contribution on github everyday
 
+- [hardy-chan](https://github.com/hardy-chan)
+- [x] Drink water
+- [x] Use GitHub
+- [ ] Sleep
+
 ### <-- Contributor END
 
 
